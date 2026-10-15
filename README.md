@@ -1,3 +1,9 @@
+| Name                 | NRP  |
+|-------------------------|:-----:|
+| Ahmad Farras Favian A        | 5025251005  |
+
+
+
 # Student Management — Relational CRUD & User Management
 
 A PHP (procedural MySQLi) + Bootstrap 5 web app for managing students, built for the Web Programming course (Session 6).
